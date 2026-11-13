@@ -1,0 +1,8 @@
+{
+  "short_name": "MangaluruBus",
+  "name": "Mangaluru Smart Transit & Offline Emergency System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2980b9"
+}
